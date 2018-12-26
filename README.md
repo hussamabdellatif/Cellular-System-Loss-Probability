@@ -5,6 +5,8 @@ The code calculates and plot the Loss Probability Curve of a cellular system tha
 
 Assuming Poisson Arrival Process for new and handoff requests. 
 
+==> Solved through the use of Transition Matrix
+
 Two types are considered in the code:
 
  Type I: reserved resources are not fixed resources.
